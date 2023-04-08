@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Polish Name Days API
 
 import requests
