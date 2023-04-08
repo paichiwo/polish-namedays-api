@@ -5,7 +5,8 @@ This Python script provides the Polish name days for the current date, using a f
 ## How to Use
 
 1. Clone this repository.
-2. Install the required packages by running the following command in your terminal: `pip install -r requirements.txt`.
+2. Install the required packages by running the following command in your terminal:    
+`pip install -r requirements.txt`
 3. Run the script by typing `python Polish_NameDays.py` in your terminal.
 
 The script will output the current date in the format "weekday day month year" (e.g. "Niedziela 08 Kwiecień 2023"), followed by the name days that correspond to that date in Polish.
