@@ -50,7 +50,7 @@ def get_name_day():
 
     # Outputs dictionary of name days
     name_days = response.json()
-    polish_name_day = name_days['nameday']['pl']
+    polish_name_day = name_days['nameday']['pl']  # ['pl'] can be changed to get name days for a different country
 
     return polish_name_day
 
