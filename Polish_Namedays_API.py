@@ -4,8 +4,9 @@ import requests
 from datetime import date
 
 
-# Date - English to Polish translation
 def polish_date():
+    # Date - English to Polish translation
+
     # Get today's date
     today = date.today()
     # Get weekday and use dictionary for translation
